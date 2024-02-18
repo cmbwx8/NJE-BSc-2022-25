@@ -9,7 +9,7 @@
 
  - [GAMF Fontosabb elérhetőségek](https://gamf.uni-neumann.hu/elerhetosegek/)    
 -  [Szakdolgozat, szakmai gyakorlat info](https://gamf.uni-neumann.hu/oktatasszervezes/)    
--  [GAMF-os Szakdolgozat sablon]([https://gamf.uni-neumann.hu/wp-content/uploads/2022/05/Szakdolgozati_sablon_2022_tavasz.docx](https://gamf.uni-neumann.hu/wp-content/uploads/2023/03/Szakdolgozati_sablon_2023_tavasz.docx))
+-  [GAMF-os Szakdolgozat sablon](https://gamf.uni-neumann.hu/wp-content/uploads/2022/05/Szakdolgozati_sablon_2022_tavasz.docx](https://gamf.uni-neumann.hu/wp-content/uploads/2023/03/Szakdolgozati_sablon_2023_tavasz.docx)
 
 ### 📑 Tananyag
 
