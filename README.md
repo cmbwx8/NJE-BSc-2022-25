@@ -3,7 +3,7 @@
 
 ## Hasznos linkek, tartalmak, korábbi anyagok
 
-📌 [Discord](https://discord.com/invite/vKtBDW9q)
+📌 Discord
 
 ### 🗂️ NJE
 
